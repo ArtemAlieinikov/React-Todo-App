@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArtemAlieinikov/ReactTodoApp/static/css/main.cf0858ee.chunk.css",
-    "main.js": "/ArtemAlieinikov/ReactTodoApp/static/js/main.9ba6ec0a.chunk.js",
-    "main.js.map": "/ArtemAlieinikov/ReactTodoApp/static/js/main.9ba6ec0a.chunk.js.map",
-    "runtime~main.js": "/ArtemAlieinikov/ReactTodoApp/static/js/runtime~main.dd04ca31.js",
-    "runtime~main.js.map": "/ArtemAlieinikov/ReactTodoApp/static/js/runtime~main.dd04ca31.js.map",
-    "static/js/2.34ad89f7.chunk.js": "/ArtemAlieinikov/ReactTodoApp/static/js/2.34ad89f7.chunk.js",
-    "static/js/2.34ad89f7.chunk.js.map": "/ArtemAlieinikov/ReactTodoApp/static/js/2.34ad89f7.chunk.js.map",
-    "index.html": "/ArtemAlieinikov/ReactTodoApp/index.html",
-    "precache-manifest.62f42fa29fab668a8cff23f8cb1328a0.js": "/ArtemAlieinikov/ReactTodoApp/precache-manifest.62f42fa29fab668a8cff23f8cb1328a0.js",
-    "service-worker.js": "/ArtemAlieinikov/ReactTodoApp/service-worker.js",
-    "static/css/main.cf0858ee.chunk.css.map": "/ArtemAlieinikov/ReactTodoApp/static/css/main.cf0858ee.chunk.css.map"
+    "main.css": "/ReactTodoApp/static/css/main.cf0858ee.chunk.css",
+    "main.js": "/ReactTodoApp/static/js/main.9ba6ec0a.chunk.js",
+    "main.js.map": "/ReactTodoApp/static/js/main.9ba6ec0a.chunk.js.map",
+    "runtime~main.js": "/ReactTodoApp/static/js/runtime~main.a539cb81.js",
+    "runtime~main.js.map": "/ReactTodoApp/static/js/runtime~main.a539cb81.js.map",
+    "static/js/2.34ad89f7.chunk.js": "/ReactTodoApp/static/js/2.34ad89f7.chunk.js",
+    "static/js/2.34ad89f7.chunk.js.map": "/ReactTodoApp/static/js/2.34ad89f7.chunk.js.map",
+    "index.html": "/ReactTodoApp/index.html",
+    "precache-manifest.fcc400f4a0719a0b42493b1e69464127.js": "/ReactTodoApp/precache-manifest.fcc400f4a0719a0b42493b1e69464127.js",
+    "service-worker.js": "/ReactTodoApp/service-worker.js",
+    "static/css/main.cf0858ee.chunk.css.map": "/ReactTodoApp/static/css/main.cf0858ee.chunk.css.map"
   }
 }
