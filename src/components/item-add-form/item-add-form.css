@@ -1,6 +1,10 @@
-.add-input {
+.item-add-form {
     width: auto;
     flex-grow: 1;
     margin-right: 3px;
     font-size: 20px;
+}
+
+.item-add-form input {
+    margin-right: 3px;
 }
