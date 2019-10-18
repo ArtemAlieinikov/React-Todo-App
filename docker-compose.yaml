@@ -1,0 +1,8 @@
+version: '3'
+services:
+        todo-web-app:
+                container_name: todo-web-app-container
+                build: 
+                        context: .
+                ports: 
+                        - 8000:3000                
